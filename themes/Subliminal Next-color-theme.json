@@ -63,6 +63,7 @@
     "list.inactiveFocusBackground": "#23283050",
     "list.inactiveSelectionBackground": "#232830",
     "list.inactiveSelectionForeground": "#dfe1e8",
+    "menu.separatorBackground": "#282d38",
     "panel.background": "#252A33",
     "panel.border": "#252A33",
     "peekViewEditor.matchHighlightBackground": "#29244b",
