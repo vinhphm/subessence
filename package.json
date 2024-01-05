@@ -1,9 +1,9 @@
 {
-	"name": "subliminal-next",
-	"displayName": "Subliminal Next",
+	"name": "subessence",
+	"displayName": "Subessence",
 	"description": "Basically a subjectively revamped, more electrifying version of awesome `Subliminal` theme made by Dan Abramov.",
-	"version": "0.20.0",
-	"publisher": "konradkeska",
+	"version": "0.1.0",
+	"publisher": "vinhphm",
 	"icon": "images/icon.png",
 	"engines": {
 		"vscode": "^1.31.0"
@@ -20,14 +20,14 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/konradkeska/subliminal-next"
+		"url": "https://github.com/vinhphm/subessence"
 	},
 	"contributes": {
 		"themes": [
 			{
-				"label": "Subliminal Next",
+				"label": "Subessence",
 				"uiTheme": "vs-dark",
-				"path": "./themes/Subliminal Next-color-theme.json"
+				"path": "./themes/Subessence-color-theme.json"
 			}
 		]
 	},
