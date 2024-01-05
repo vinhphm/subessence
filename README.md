@@ -1,6 +1,6 @@
 # Subessence
 
-![Preview](https://user-images.githubusercontent.com/29062983/102016616-1d253880-3d62-11eb-926f-4894ce8b046d.png)
+![Preview](https://raw.githubusercontent.com/vinhphm/subessence-theme/main/images/subessence.png)
 
 ## About
 
