@@ -24,7 +24,7 @@
     "editor.wordHighlightBackground": "#484e5b",
     "editor.wordHighlightStrongBackground": "#abb2bf26",
     "focusBorder": "#8CD8D8",
-    "tree.indentGuidesStroke": "#21262D",
+    "tree.indentGuidesStroke": "#21262D00",
     "editorCursor.background": "#ffffffc9",
     "editorCursor.foreground": "#b6bcc4",
     "editorError.foreground": "#E15A60",
