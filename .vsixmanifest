@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="subessence" Version="0.1.0" Publisher="vinhphm"/>
+    <Identity Language="en-US" Id="subessence" Version="0.1.3" Publisher="vinhphm"/>
     <DisplayName>Subessence</DisplayName>
-    <Description xml:space="preserve">Basically a subjectively revamped, more electrifying version of awesome `Subliminal` theme made by Dan Abramov.</Description>
+    <Description xml:space="preserve">Basically a subjectively revamped, more electrifying version of awesome `Subliminal Next` theme made by Konrad Keska.</Description>
     <Tags>Color theme,Dark theme,dark,subliminal,sublime,theme,color-theme,subessence</Tags>
     <Categories>Themes</Categories>
     <GalleryFlags>Public</GalleryFlags>
@@ -14,10 +14,10 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
       
-        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/konradkeska/subliminal-next" />
-        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/konradkeska/subliminal-next" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/vinhphm/subessence-theme" />
+        <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/vinhphm/subessence-theme" />
         
-          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/konradkeska/subliminal-next" />
+          <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/vinhphm/subessence-theme" />
         
       
       

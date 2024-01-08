@@ -1,5 +1,5 @@
 {
-  "name": "Subliminal Next",
+  "name": "Subessence",
   "type": "dark",
   "colors": {
     "activityBar.background": "#1f242b",
@@ -9,6 +9,8 @@
     "activityBarBadge.foreground": "#D7DAE0",
     "badge.background": "#282c34",
     "button.background": "#404754",
+    "chat.slashCommandBackground": "#67769660",
+    "chat.slashCommandForeground": "#8CD8D8",
     "debugToolBar.background": "#1f242b",
     "diffEditor.insertedTextBackground": "#00809B33",
     "dropdown.background": "#262A35",
