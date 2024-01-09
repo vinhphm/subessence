@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="subessence" Version="0.1.4" Publisher="vinhphm"/>
+    <Identity Language="en-US" Id="subessence" Version="0.1.5" Publisher="vinhphm"/>
     <DisplayName>Subessence</DisplayName>
     <Description xml:space="preserve">Basically a subjectively revamped, more electrifying version of awesome `Subliminal Next` theme made by Konrad Keska.</Description>
     <Tags>Color theme,Dark theme,dark,subliminal,sublime,theme,color-theme,subessence</Tags>
